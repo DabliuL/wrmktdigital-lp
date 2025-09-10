@@ -248,3 +248,13 @@ header .navegation li a{
         width: 110%;
     }
 }
+
+footer{
+    position: relative;
+    width: 100%;
+    padding: 20px 100px;
+    text-align: center;
+    background: #000000;
+    color: #fff;
+    font-size: 14px;
+}
