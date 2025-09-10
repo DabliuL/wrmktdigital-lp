@@ -207,7 +207,7 @@ header .navegation li a{
     .icons{
         display: flex;
         left: 10px;
-        bottom: -10vw;
+        bottom: 30px;
     }
     nav{
         display: none;
