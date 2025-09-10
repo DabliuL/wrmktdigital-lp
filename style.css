@@ -213,7 +213,7 @@ header .navegation li a{
         display: none;
     }
     .content .text a{
-        padding-bottom: 200px;
+        margin-bottom: 150px;
     }
 }
 /* Seção do Grid de Imagens */
