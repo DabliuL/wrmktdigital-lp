@@ -248,13 +248,13 @@ header .navegation li a{
         width: 110%;
     }
 }
-
-footer{
+.circle2{
     position: relative;
+    top: 0;
+    left: 0;
     width: 100%;
-    padding: 20px 100px;
-    text-align: center;
+    height: 100%;
     background: #000000;
-    color: #fff;
-    font-size: 14px;
+    clip-path: circle(50% at bottom right);
+    opacity: 0%;
 }
