@@ -146,6 +146,9 @@ header .navegation li a{
     filter: invert(1);
     transform: scale(0.5);
 }
+.imgw .imge{
+    transform: scale(0.1);
+}
 .boxImg{
     position: absolute;
     right: 0;
