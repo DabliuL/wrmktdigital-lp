@@ -208,10 +208,12 @@ header .navegation li a{
         display: flex;
         left: 10px;
         bottom: -10vw;
-        padding-bottom: -100px;
     }
     nav{
         display: none;
+    }
+    .content .text a{
+        padding-bottom: 200px;
     }
 }
 /* Seção do Grid de Imagens */
