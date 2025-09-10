@@ -241,5 +241,9 @@ header .navegation li a{
         grid-template-columns: 1fr; /* Em telas pequenas, as imagens ficam em uma única coluna */
         width: 100%;
         margin-top: 30px;
+        position: relative;
+        right: 0;
+        top: 0; 
+        width: 60%;
     }
 }
