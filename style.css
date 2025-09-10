@@ -205,7 +205,7 @@ header .navegation li a{
     overflow: hidden;
     }
     .icons{
-        display: none;
+        display: flex;
         left: 50px;
         bottom: -25px;
     }
