@@ -100,9 +100,6 @@ header .navegation li a{
 .content .text p{
     color: #fff;
 }
-.content .text strong{
-    color: #59167f;
-}
 .content .text a{
     display: inline-block;
     margin-top: 50px;
@@ -247,14 +244,4 @@ header .navegation li a{
         top: 0; 
         width: 110%;
     }
-}
-.circle2{
-    position: relative;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background: #8a1d1d;
-    clip-path: circle(50% at bottom right);
-    opacity: 100%;
 }
